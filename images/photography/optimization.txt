@@ -1,0 +1,2 @@
+$ jpegoptim --strip-all -m75 --max=75 file.jpg
+$ magick file.jpg -scale 400x thumb/file.jpg
